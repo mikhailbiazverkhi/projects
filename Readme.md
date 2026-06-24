@@ -3,7 +3,7 @@
 ![Automation](https://img.shields.io/badge/QA-Automation-green)
 
 # Mikhail Biazverkhi
-### Software Engineer | .NET | C# | Automation | Systems
+### Junior .NET Developer | IT Administrator
 # Mikhail Biazverkhi — .NET & Web Developer Portfolio
 Selected projects demonstrating C#, .NET, ASP.NET Core, WPF, SQL, and web development skills.
 
@@ -11,12 +11,15 @@ Selected projects demonstrating C#, .NET, ASP.NET Core, WPF, SQL, and web develo
 
 ## About Me
 
-Software Engineer with 7+ years of experience in development, automation, and system engineering.
+IT professional with experience in system administration, automation, and software development.
 
-My core stack is **C# and .NET**.  
-I also have strong experience in QA automation, Linux systems, REST API integration, and virtualization environments.
+My background includes over five years of work in systems and network administration, where I was involved in Windows Server infrastructure, virtualization, automation, and internal software projects using **C# and .NET**.
 
-This repository describes selected engineering projects I have worked on.
+After moving to Canada, I completed an AEC in Web Development at Cégep Saint-Jean-sur-Richelieu and gained hands-on experience through an internship, volunteer software development projects, and a web development contract.
+
+This repository presents selected projects involving C#, .NET, WPF, REST APIs, SQL, automation, and system integration.
+
+I am currently seeking opportunities as a Junior .NET Developer, Web Developer, Technical Support Specialist, or IT Administrator.
 
 ---
 
@@ -65,7 +68,7 @@ Director personally tested the system and confirmed successful end-to-end proces
 
 Company: Retail Robotics Solutions
 
-**Technologies:** C#, .NET Framework, WPF, imaging libraries  
+**Technologies:** C#, .NET Core, WPF, imaging libraries  
 
 #### Problem
 Outdoor lighting conditions affected camera measurements and system accuracy.
@@ -81,7 +84,28 @@ Improved measurement stability under dynamic lighting conditions in production e
 
 ---
 
-### 3. QA Automation Framework Enhancement (C#)
+### 3. Computer Vision Support System for Weight Recognition (C# / .NET)
+
+Company: Retail Robotics Solutions (Internship)
+
+**Technologies:** C#, .NET, linear algebra, image processing
+
+#### Problem
+The weighing system needed a way to estimate unknown product quantities using image data.
+
+#### Responsibilities
+- Implemented algorithms for solving systems of linear equations
+- Developed matrix-based calculations
+- Used RGB values from images as input data
+- Contributed to a reusable .NET library
+
+#### Result
+Improved billing accuracy and reduced manual corrections.
+The solution was integrated into the production system.
+
+---
+
+### 4. QA Automation Framework Enhancement (C#)
 
 Using Ranorex Studio
 
@@ -102,7 +126,7 @@ Some proposed improvements were later reflected in product updates.
 
 ---
 
-### 4. Database → Salesforce Integration Tool
+### 5. Database → Salesforce Integration Tool
 
 **Technologies:** C#, REST API, MSSQL, JSON  
 
@@ -117,6 +141,26 @@ Manual synchronization between internal MSSQL database and CRM system.
 
 #### Result
 Reliable enterprise data synchronization workflow.
+
+---
+
+### 6. Mathematical Morphology Data Processing System (Visual Basic)
+
+Institution: National Academy of Sciences of Belarus
+
+**Technologies:** Visual Basic, data analysis, mathematical modeling
+
+#### Problem
+Researchers needed a software prototype to analyze sociological data using mathematical morphology methods.
+
+#### Responsibilities
+- Implemented mathematical morphology concepts in software
+- Developed data processing algorithms
+- Built a prototype application in Visual Basic
+- Supported academic research activities
+
+#### Result
+Helped validate new approaches for structured data analysis in research projects.
 
 ---
 
@@ -140,4 +184,4 @@ Reliable enterprise data synchronization workflow.
 
 Open to job opportunities and collaborations.
 
-Open to **.NET / Software Developer** opportunities.
+Open to Junior .NET Developer, Web Developer, Technical Support Specialist and IT Administrator opportunities.
